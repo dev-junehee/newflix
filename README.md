@@ -1,2 +1,4 @@
-# must-have-
-must have 비전공자 코딩 챌린지 토이 프로젝트
+# Toy Project No.1 Newfilx
+
+with 'Must have 비전공자 코딩 챌린지'
+Use only HTML & CSS
